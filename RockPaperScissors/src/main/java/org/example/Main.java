@@ -1,6 +1,5 @@
 package org.example;
 
-import java.util.Objects;
 import java.util.Scanner;
 import java.util.Random;
 
